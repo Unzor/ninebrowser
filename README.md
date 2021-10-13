@@ -1,4 +1,4 @@
-![NineBrowser Logo](/logo/nb.png)
+![NineBrowser Logo](https://raw.githubusercontent.com/Unzor/ninebrowser/main/nb%20(1).png)
 
 A web browser written in Node.js that I made for fun.
 
@@ -16,8 +16,4 @@ Finished features:
 - CTRL + R shortcut
 
 Upcoming features:
-- Compiling to Windows installer
-- Going forward a page
 - Context menu
-- NineBrowser homepage
-- Extensions (might not happen)
