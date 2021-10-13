@@ -1,4 +1,4 @@
-# ninebrowser
+![NineBrowser Logo](/logo/nb.png)
 A web browser written in Node.js that I made for fun.
 
 # How to Download (Windows Only)
