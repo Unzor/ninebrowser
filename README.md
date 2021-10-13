@@ -1,7 +1,10 @@
 # ninebrowser
-A web browser written in Node.js.
+A web browser written in Node.js that I made for fun.
 
-NineBrowser is still being worked on, check in to https://replit.com/@Seven7Four4/multibrowse to see progress. Will be compiled to desktop app soon.
+# How to Download (Windows Only)
+Step 1: Install Node.js
+Step 2: Download ninebrowser.zip from releases
+Step 3: Open NineBrowser.exe
 
 # Progress/Roadmap
 Finished features:
