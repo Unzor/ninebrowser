@@ -14,6 +14,8 @@ Finished features:
 - Going back a page
 - Search bar autofill
 - CTRL + R shortcut
+- Going forward a page
 
 Upcoming features:
 - Context menu
+- Windows executable
