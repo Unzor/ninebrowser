@@ -2,6 +2,16 @@
 
 A web browser written in Node.js and Electron that I made for fun.
 
+# Setup from Source
+Install Node.js, npm, git, and run this:
+```
+git clone https://github.com/Unzor/ninebrowser
+cd ninebrowser
+npm install
+npm start
+```
+A new window will pop up with NineBrowser.
+
 # How to Download (Windows Only)
 - Step 1: Install Node.js
 - Step 2: Download ninebrowser.zip from releases
