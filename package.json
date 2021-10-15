@@ -1,0 +1,21 @@
+{
+  "name": "ninebrowser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron . --no-sandbox"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.2.1",
+    "electron-packager": "^15.4.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "electron-fetch": "^1.7.4",
+    "express": "^4.17.1"
+  }
+}
